@@ -1,0 +1,1 @@
+There are 2 distributions of OpenCV for Processing library in the book, OpenCV310 and OpenCV320. To use the library without creating the Processing library as stated in chapter 8, copy the code folder inside the OpenCV310 or OpenCV320 into the Processing sketch folder of your program.

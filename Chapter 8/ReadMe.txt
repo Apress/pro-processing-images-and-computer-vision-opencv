@@ -1,0 +1,1 @@
+To use the CVImage library for Processing. Copy the CVImage folder to the libraries folder inside your local Processing or sketchbook folder.

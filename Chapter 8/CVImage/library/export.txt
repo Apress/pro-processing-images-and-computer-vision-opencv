@@ -1,0 +1,6 @@
+name = CVImage
+
+application.macosx=CVImage.jar,opencv-310.jar,libopencv_java310.dylib
+application.windows64=CVImage.jar,opencv-310.jar,opencv_java310.dll
+application.linux64=CVImage.jar,opencv-310.jar,libopencv_java310.so
+
